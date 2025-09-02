@@ -6,11 +6,11 @@ This project is an expense management system that consists of a Streamlit fronte
 
 Here are some screenshots of the application:
 ### Screenshot 1
-![Page-1](Screenshots/Page-1.jpeg)
+![Page-1](Screenshots/Page-1.jpg)
 ### Screenshot 1
-![Page-2](Screenshots/page-2.jpeg)
+![Page-2](Screenshots/page-2.jpg)
 ### Screenshot 1
-![Page-3](Screenshots/page-3.jpeg)
+![Page-3](Screenshots/page-3.jpg)
 ## Project Structure
 
 - **frontend/**: Contains the Streamlit application code.
